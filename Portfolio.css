@@ -1,0 +1,91 @@
+.mainimg{
+    display: block;
+    width: 851px;
+    height: 315px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.corpo{
+    background-color: white;
+    width: auto;
+    padding-top: 10px;
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-bottom: 10px;
+    margin: auto;
+}
+.folha{
+    background-color: white;
+    width: auto;
+    padding-top: 10px;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 10px;
+    margin: auto;
+}
+li{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+}
+a{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;  
+}
+.texto{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 18px;
+}
+
+h1{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+    font-size: 70px; 
+    text-decoration-color: rgb(0, 0, 0);
+}
+h2{
+    font-size: 22px;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.img{
+    display: block;
+    width: 650px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.imgcontesq{
+    float: left;
+    width: 380px;
+    height: 380px;
+    vertical-align: left;
+}
+.imgcontdir{
+    float: right;
+    width: 380px;
+    height: 380px;
+    vertical-align: right;
+}
+.imgespecial{
+    display: block;
+    width: 850px;
+    height: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.imgespecial2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+footer .copyright span {
+    color: #0894d1;
+  }
+  footer .copyright {
+    padding: 15px 0;
+    background: rgb(233, 231, 231);
+    margin-top: 20px;
+    font-size: 15px;
+  }
